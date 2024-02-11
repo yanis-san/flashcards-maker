@@ -1,0 +1,29 @@
+.history
+.venv
+_pycache_
+# Fichiers et dossiers générés par l'interpréteur Python
+__pycache__/
+*.py[cod]
+
+# Dossiers générés par le système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Environnements virtuels Python
+venv/
+env/
+*.env
+
+# Fichiers de logs et fichiers temporaires
+*.log
+*.pot
+*.pyc
+*.swp
+*~
+*.bak
+*.vscode/
+
+# Fichiers d'installation et builds
+*.egg-info/
+dist/
+build/

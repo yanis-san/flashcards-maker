@@ -1,0 +1,1364 @@
+{
+    "chinese": {
+        "1": {
+            "date": "2023-12-26",
+            "français": "Neige",
+            "chinois": "雪",
+            "transcription": "Xuě",
+            "arabe": "ثلج"
+        },
+        "2": {
+            "date": "2023-12-27",
+            "français": "Beurre",
+            "chinois": "黄油",
+            "transcription": "Huángyóu",
+            "arabe": "زبدة"
+        },
+        "3": {
+            "date": "2023-12-28",
+            "français": "Appareil photo",
+            "chinois": "相机",
+            "transcription": "Xiàngjī",
+            "arabe": "كاميرا"
+        },
+        "4": {
+            "date": "2023-12-29",
+            "français": "Fromage",
+            "chinois": "奶酪",
+            "transcription": "Nǎilào",
+            "arabe": "جبن"
+        },
+        "5": {
+            "date": "2023-12-30",
+            "français": "Taxi",
+            "chinois": "出租车",
+            "transcription": "Chūzūchē",
+            "arabe": "تاكسي"
+        },
+        "6": {
+            "date": "2023-12-31",
+            "français": "Dîner",
+            "chinois": "晚餐",
+            "transcription": "Wǎncān",
+            "arabe": "عشاء"
+        },
+        "7": {
+            "date": "2024-01-01",
+            "français": "Bonne annee",
+            "chinois": "新年快乐",
+            "transcription": "Xīnnián kuàilè",
+            "arabe": "سنة جديدة سعيدة"
+        },
+        "8": {
+            "date": "2024-01-06",
+            "français": "Chocolat",
+            "chinois": "巧克力",
+            "transcription": "Qiǎokèlì",
+            "arabe": "شوكولاتة"
+        },
+        "9": {
+            "date": "2024-01-07",
+            "français": "Monstre",
+            "chinois": "怪物",
+            "transcription": "Guàiwù",
+            "arabe": "وحش"
+        },
+        "10": {
+            "date": "2024-01-08",
+            "français": "Internet",
+            "chinois": "互联网",
+            "transcription": "Hùliánwǎng",
+            "arabe": "الإنترنت"
+        },
+        "11": {
+            "date": "2024-01-09",
+            "français": "Jeu",
+            "chinois": "游戏",
+            "transcription": "Yóuxì",
+            "arabe": "لعبة"
+        },
+        "12": {
+            "date": "2024-01-10",
+            "français": "Pain",
+            "chinois": "面包",
+            "transcription": "Miànbāo",
+            "arabe": "خبز"
+        },
+        "13": {
+            "date": "2024-01-11",
+            "français": "Moto",
+            "chinois": "摩托车",
+            "transcription": "Mótuōchē",
+            "arabe": "دراجة نارية"
+        },
+        "14": {
+            "date": "2024-01-12",
+            "français": "Imprimante",
+            "chinois": "打印机",
+            "transcription": "Dǎyìnjī",
+            "arabe": "طابعة"
+        },
+        "15": {
+            "date": "2024-01-13",
+            "français": "Bus",
+            "chinois": "公共汽车",
+            "transcription": "Gōnggòng qìchē",
+            "arabe": "حافلة"
+        },
+        "16": {
+            "date": "2024-01-14",
+            "français": "Camera",
+            "chinois": "摄像机",
+            "transcription": "Shèxiàng jī",
+            "arabe": "كاميرا"
+        },
+        "17": {
+            "date": "2024-01-15",
+            "français": "Football",
+            "chinois": "足球",
+            "transcription": "Zúqiú",
+            "arabe": "كرة القدم"
+        },
+        "18": {
+            "date": "2024-01-16",
+            "français": "Radio",
+            "chinois": "收音机",
+            "transcription": "Shōuyīnjī",
+            "arabe": "راديو"
+        },
+        "19": {
+            "date": "2024-01-17",
+            "français": "Toilettes",
+            "chinois": "厕所",
+            "transcription": "Cèsuǒ",
+            "arabe": "مرحاض"
+        },
+        "20": {
+            "date": "2024-01-18",
+            "français": "Lumière",
+            "chinois": "光",
+            "transcription": "Guāng",
+            "arabe": "ضوء"
+        },
+        "21": {
+            "date": "2024-01-19",
+            "français": "Pomme de terre",
+            "chinois": "土豆",
+            "transcription": "Tǔdòu",
+            "arabe": "بطاطا"
+        },
+        "22": {
+            "date": "2024-01-20",
+            "français": "Gazon",
+            "chinois": "草坪",
+            "transcription": "Cǎopíng",
+            "arabe": "عشب"
+        },
+        "23": {
+            "date": "2024-01-21",
+            "français": "Café",
+            "chinois": "咖啡",
+            "transcription": "Kāfēi",
+            "arabe": "قهوة"
+        },
+        "24": {
+            "date": "2024-01-22",
+            "français": "Chemise",
+            "chinois": "衬衫",
+            "transcription": "Chènshān",
+            "arabe": "قميص"
+        },
+        "25": {
+            "date": "2024-01-23",
+            "français": "Ballon",
+            "chinois": "气球",
+            "transcription": "Qìqiú",
+            "arabe": "بالون"
+        },
+        "26": {
+            "date": "2024-01-24",
+            "français": "Télévision",
+            "chinois": "电视",
+            "transcription": "Diànshì",
+            "arabe": "تلفزيون"
+        },
+        "27": {
+            "date": "2024-01-25",
+            "français": "Télécommande",
+            "chinois": "遥控器",
+            "transcription": "Yáokòngqì",
+            "arabe": "جهاز التحكم عن بعد"
+        },
+        "28": {
+            "date": "2024-01-26",
+            "français": "Voiture",
+            "chinois": "汽车",
+            "transcription": "Qìchē",
+            "arabe": "سيارة"
+        },
+        "29": {
+            "date": "2024-01-27",
+            "français": "Armée",
+            "chinois": "军队",
+            "transcription": "Jūnduì",
+            "arabe": "جيش"
+        },
+        "30": {
+            "date": "2024-01-28",
+            "français": "Shampoing",
+            "chinois": "洗发水",
+            "transcription": "Xǐfàshuǐ",
+            "arabe": "شامبو"
+        },
+        "31": {
+            "date": "2024-01-29",
+            "français": "Message",
+            "chinois": "消息",
+            "transcription": "Xiāoxī",
+            "arabe": "رسالة"
+        },
+        "32": {
+            "date": "2024-01-30",
+            "français": "Pâtes",
+            "chinois": "面",
+            "transcription": "Miàn",
+            "arabe": "مكرونة"
+        },
+        "33": {
+            "date": "2024-01-31",
+            "français": "Gâteau",
+            "chinois": "蛋糕",
+            "transcription": "Dàngāo",
+            "arabe": "كعكة"
+        },
+        "34": {
+            "date": "2024-02-01",
+            "français": "Pluie",
+            "japonais": "雨",
+            "transcription": "yǔ",
+            "arabe": "مطر"
+        },
+        "35": {
+            "date": "2024-02-02",
+            "français": "Gaz",
+            "chinois": "煤气",
+            "transcription": "Méiqì",
+            "arabe": "غاز"
+        },
+        "36": {
+            "date": "2024-02-03",
+            "français": "Appartement",
+            "chinois": "公寓",
+            "transcription": "Gōngyù",
+            "arabe": "شقة"
+        },
+        "37": {
+            "date": "2024-02-04",
+            "français": "Espace",
+            "chinois": "太空",
+            "transcription": "Tàikōng",
+            "arabe": "الفضاء"
+        },
+        "38": {
+            "date": "2024-02-05",
+            "français": "Micro",
+            "chinois": "麦克风",
+            "transcription": "Màikèfēng",
+            "arabe": "ميكروفون"
+        },
+        "39": {
+            "date": "2024-02-06",
+            "français": "Piano",
+            "chinois": "钢琴",
+            "transcription": "Gāngqín",
+            "arabe": "بيانو"
+        },
+        "40": {
+            "date": "2024-02-07",
+            "français": "Guitare",
+            "chinois": "吉他",
+            "transcription": "Jítā",
+            "arabe": "غيتار"
+        },
+        "41": {
+            "date": "2024-02-08",
+            "français": "Opera",
+            "chinois": "歌剧",
+            "transcription": "Gējù",
+            "arabe": "أوبرا"
+        },
+        "42": {
+            "date": "2024-02-09",
+            "français": "Avion",
+            "chinois": "飞机",
+            "transcription": "Fēijī",
+            "arabe": "طائرة"
+        },
+        "43": {
+            "date": "2024-02-10",
+            "français": "Hélicoptère",
+            "chinois": "直升机",
+            "transcription": "Zhíshēngjī",
+            "arabe": "مروحية"
+        },
+        "44": {
+            "date": "2024-02-11",
+            "français": "Carte",
+            "chinois": " 牌",
+            "transcription": "Pái",
+            "arabe": "ورقة"
+        },
+        "45": {
+            "date": "2024-02-12",
+            "français": "Menu",
+            "chinois": "菜单",
+            "transcription": "Càidān",
+            "arabe": "قائمة الطعام"
+        },
+        "46": {
+            "date": "2024-02-13",
+            "français": "Thé",
+            "chinois": "茶",
+            "transcription": "Chá",
+            "arabe": "شاي"
+        },
+        "47": {
+            "date": "2024-02-14",
+            "français": "Glaçon",
+            "chinois": "冰块",
+            "transcription": "Bīngkuài",
+            "arabe": "مكعب ثلج"
+        },
+        "48": {
+            "date": "2024-02-15",
+            "français": "Poulet",
+            "chinois": "鸡肉",
+            "transcription": "Jīròu",
+            "arabe": "دجاج"
+        },
+        "49": {
+            "date": "2024-02-16",
+            "français": "Riz",
+            "chinois": "米饭",
+            "transcription": "Mǐfàn",
+            "arabe": "أرز"
+        },
+        "50": {
+            "date": "2024-02-17",
+            "français": "Fruit",
+            "chinois": "水果",
+            "transcription": "Shuǐguǒ",
+            "arabe": "فاكهة"
+        },
+        "51": {
+            "date": "2024-02-18",
+            "français": "Fraise",
+            "chinois": "草莓",
+            "transcription": "Cǎoméi",
+            "arabe": "فراولة"
+        },
+        "52": {
+            "date": "2024-02-19",
+            "français": "Orange",
+            "chinois": "橙子",
+            "transcription": "Chéngzi",
+            "arabe": "برتقال"
+        },
+        "53": {
+            "date": "2024-02-20",
+            "français": "Banane",
+            "chinois": "香蕉",
+            "transcription": "Xiāngjiāo",
+            "arabe": "موز"
+        },
+        "54": {
+            "date": "2024-02-21",
+            "français": "Citron",
+            "chinois": "柠檬",
+            "transcription": "Níngméng",
+            "arabe": "ليمون"
+        },
+        "55": {
+            "date": "2024-02-22",
+            "français": "Kiwi",
+            "chinois": "猕猴桃",
+            "transcription": "Míhóutáo",
+            "arabe": "كيوي"
+        },
+        "56": {
+            "date": "2024-02-23",
+            "français": "Cerise",
+            "chinois": "樱桃",
+            "transcription": "Yīngtáo",
+            "arabe": "كرز"
+        },
+        "57": {
+            "date": "2024-02-24",
+            "français": "Poivron",
+            "chinois": "甜椒",
+            "transcription": "Tiánjiāo",
+            "arabe": "فلفل"
+        },
+        "58": {
+            "date": "2024-02-25",
+            "français": "Tomate",
+            "chinois": "番茄",
+            "transcription": "Fānqié",
+            "arabe": "طماطم"
+        },
+        "59": {
+            "date": "2024-02-26",
+            "français": "Courgette",
+            "chinois": "西葫芦",
+            "transcription": "Xīhúlu",
+            "arabe": "قرعة"
+        },
+        "60": {
+            "date": "2024-02-27",
+            "français": "Laitue",
+            "chinois": "生菜",
+            "transcription": "Shēngcài",
+            "arabe": "خس"
+        },
+        "61": {
+            "date": "2024-02-28",
+            "français": "Artichaut",
+            "chinois": "朝鲜蓟",
+            "transcription": "Cháoxiǎnjì",
+            "arabe": "قرنون"
+        },
+        "62": {
+            "date": "2024-02-29",
+            "français": "Carotte",
+            "chinois": "胡萝卜",
+            "transcription": "Húluóbo",
+            "arabe": "جزر"
+        },
+        "63": {
+            "date": "2024-03-01",
+            "français": "Croissant",
+            "chinois": "羊角面包",
+            "transcription": "Yánjiǎo miànbāo",
+            "arabe": "كرواسون"
+        }
+    },
+    "japanese": {
+        "1": {
+            "date": "2023-12-26",
+            "français": "Neige",
+            "japonais": "雪",
+            "hiragana": "ゆき",
+            "transcription": "yuki",
+            "arabe": "ثلج"
+        },
+        "2": {
+            "date": "2023-12-27",
+            "français": "Beurre",
+            "japonais": "バター",
+            "transcription": "batā",
+            "arabe": "زبدة"
+        },
+        "3": {
+            "date": "2023-12-28",
+            "français": "Appareil photo",
+            "japonais": "カメラ",
+            "transcription": "kamera",
+            "arabe": "كاميرا"
+        },
+        "4": {
+            "date": "2023-12-29",
+            "français": "Fromage",
+            "japonais": "チーズ",
+            "transcription": "chīzu",
+            "arabe": "جبن"
+        },
+        "5": {
+            "date": "2023-12-30",
+            "français": "Taxi",
+            "japonais": "タクシー",
+            "transcription": "takushī",
+            "arabe": "تاكسي"
+        },
+        "6": {
+            "date": "2023-12-31",
+            "français": "Dîner",
+            "japonais": " 晩ごはん",
+            "hiragana": "ばんごはん",
+            "transcription": "bangohan",
+            "arabe": "عشاء"
+        },
+        "7": {
+            "date": "2024-01-01",
+            "français": "Bonne année",
+            "japonais": "明けましておめでとうございます",
+            "hiragana": "あけましておめでとうございます",
+            "transcription": "akemashiteomedetougozaimasu",
+            "arabe": "عام سعيد"
+        },
+        "8": {
+            "date": "2024-01-06",
+            "français": "Chocolat",
+            "japonais": "チョコレート",
+            "transcription": "chokorēto",
+            "arabe": "شوكولاتة"
+        },
+        "9": {
+            "date": "2024-01-07",
+            "français": "Monstre",
+            "japonais": "モンスター",
+            "transcription": "monsutā",
+            "arabe": "وحش"
+        },
+        "10": {
+            "date": "2024-01-08",
+            "français": "Internet",
+            "japonais": "インターネット",
+            "transcription": "intānetto",
+            "arabe": "الإنترنت"
+        },
+        "11": {
+            "date": "2024-01-09",
+            "français": "Jeu",
+            "japonais": "ゲーム",
+            "transcription": "gēmu",
+            "arabe": "لعبة"
+        },
+        "12": {
+            "date": "2024-01-10",
+            "français": "Pain",
+            "japonais": "パン",
+            "transcription": "pan",
+            "arabe": "خبز"
+        },
+        "13": {
+            "date": "2024-01-11",
+            "français": "Moto",
+            "japonais": "バイク",
+            "transcription": "baiku",
+            "arabe": "دراجة نارية"
+        },
+        "14": {
+            "date": "2024-01-12",
+            "français": "Imprimante",
+            "japonais": "プリンター",
+            "transcription": "purintā",
+            "arabe": "طابعة"
+        },
+        "15": {
+            "date": "2024-01-13",
+            "français": "Bus",
+            "japonais": "バス",
+            "transcription": "basu",
+            "arabe": "حافلة"
+        },
+        "16": {
+            "date": "2024-01-14",
+            "français": "Camera",
+            "japonais": "ビデオカメラ",
+            "transcription": "bideo kamera",
+            "arabe": "كاميرا"
+        },
+        "17": {
+            "date": "2024-01-15",
+            "français": "Football",
+            "japonais": "サッカー",
+            "transcription": "sakkā",
+            "arabe": "كرة القدم"
+        },
+        "18": {
+            "date": "2024-01-16",
+            "français": "Radio",
+            "japonais": "ラジオ",
+            "transcription": "rajio",
+            "arabe": "راديو"
+        },
+        "19": {
+            "date": "2024-01-17",
+            "français": "Toilettes",
+            "japonais": "トイレ",
+            "transcription": "toire",
+            "arabe": "حمام"
+        },
+        "20": {
+            "date": "2024-01-18",
+            "français": "Lumière",
+            "japonais": "光",
+            "hiragana": "ひかり",
+            "transcription": "hikari",
+            "arabe": "ضوء"
+        },
+        "21": {
+            "date": "2024-01-19",
+            "français": "Pomme de terre",
+            "japonais": "じゃがいも",
+            "transcription": "jagaimo",
+            "arabe": "بطاطا"
+        },
+        "22": {
+            "date": "2024-01-20",
+            "français": "Gazon",
+            "japonais": "芝生",
+            "hiragana": "しばふ",
+            "transcription": "shibafu",
+            "arabe": "عشب"
+        },
+        "23": {
+            "date": "2024-01-21",
+            "français": "Café",
+            "japonais": "コーヒー",
+            "transcription": "kōhī",
+            "arabe": "قهوة"
+        },
+        "24": {
+            "date": "2024-01-22",
+            "français": "Chemise",
+            "japonais": "シャツ",
+            "transcription": "shatsu",
+            "arabe": "قميص"
+        },
+        "25": {
+            "date": "2024-01-23",
+            "français": "Ballon",
+            "japonais": "ボール",
+            "transcription": "bōru",
+            "arabe": "كرة"
+        },
+        "26": {
+            "date": "2024-01-24",
+            "français": "Télévision",
+            "japonais": "テレビ",
+            "transcription": "terebi",
+            "arabe": "تلفزيون"
+        },
+        "27": {
+            "date": "2024-01-25",
+            "français": "Télécommande",
+            "japonais": "リモコン",
+            "transcription": "rimokon",
+            "arabe": "جهاز التحكم عن بعد"
+        },
+        "28": {
+            "date": "2024-01-26",
+            "français": "Voiture",
+            "japonais": "車",
+            "hiragana": "くるま",
+            "transcription": "kuruma",
+            "arabe": "سيارة"
+        },
+        "29": {
+            "date": "2024-01-27",
+            "français": "Armée",
+            "japonais": "軍隊",
+            "hiragana": "ぐんたい",
+            "transcription": "guntai",
+            "arabe": "جيش"
+        },
+        "30": {
+            "date": "2024-01-28",
+            "français": "Shampoing",
+            "japonais": "シャンプー",
+            "transcription": "shanpū",
+            "arabe": "شامبو"
+        },
+        "31": {
+            "date": "2024-01-29",
+            "français": "Message",
+            "japonais": "メッセージ",
+            "transcription": "messēji",
+            "arabe": "رسالة"
+        },
+        "32": {
+            "date": "2024-01-30",
+            "français": "Pâtes",
+            "japonais": "パスタ",
+            "transcription": "pasuta",
+            "arabe": "مكرونة"
+        },
+        "33": {
+            "date": "2024-01-31",
+            "français": "Gâteau",
+            "japonais": "ケーキ",
+            "transcription": "kēki",
+            "arabe": "كعكة"
+        },
+        "34": {
+            "date": "2024-02-01",
+            "français": "Pluie",
+            "japonais": "雨",
+            "transcription": "ame",
+            "arabe": "مطر"
+        },
+        "35": {
+            "date": "2024-02-02",
+            "français": "Gaz",
+            "japonais": "ガス",
+            "transcription": "gasu",
+            "arabe": "غاز"
+        },
+        "36": {
+            "date": "2024-02-03",
+            "français": "Appartement",
+            "japonais": "アパートメント",
+            "transcription": "apātomento",
+            "arabe": "شقة"
+        },
+        "37": {
+            "date": "2024-02-04",
+            "français": "Espace",
+            "japonais": "宇宙",
+            "hiragana": "うちゅう",
+            "transcription": "uchū",
+            "arabe": "الفضاء"
+        },
+        "38": {
+            "date": "2024-02-05",
+            "français": "Micro",
+            "japonais": "マイク",
+            "transcription": "maiku",
+            "arabe": "ميكروفون"
+        },
+        "39": {
+            "date": "2024-02-06",
+            "français": "Piano",
+            "japonais": "ピアノ",
+            "hiragana": "ぴあの",
+            "transcription": "piano",
+            "arabe": "بيانو"
+        },
+        "40": {
+            "date": "2024-02-07",
+            "français": "Guitare",
+            "japonais": "ギター",
+            "hiragana": "ぎたー",
+            "transcription": "gitā",
+            "arabe": "غيتار"
+        },
+        "41": {
+            "date": "2024-02-08",
+            "français": "Opera",
+            "japonais": "オペラ",
+            "hiragana": "おぺら",
+            "transcription": "opera",
+            "arabe": "أوبرا"
+        },
+        "42": {
+            "date": "2024-02-09",
+            "français": "Avion",
+            "japonais": "飛行機",
+            "hiragana": "ひこうき",
+            "transcription": "hikōki",
+            "arabe": "طائرة"
+        },
+        "43": {
+            "date": "2024-02-10",
+            "français": "Hélicoptère",
+            "japonais": "ヘリコプター",
+            "hiragana": "へりこぷたー",
+            "transcription": "herikoputā",
+            "arabe": "مروحية"
+        },
+        "44": {
+            "date": "2024-02-11",
+            "français": "Carte",
+            "japonais": "カード",
+            "hiragana": "",
+            "transcription": "kādo",
+            "arabe": "ورقة"
+        },
+        "45": {
+            "date": "2024-02-12",
+            "français": "Menu",
+            "japonais": "メニュー",
+            "hiragana": "めにゅー",
+            "transcription": "menyū",
+            "arabe": "قائمة الطعام"
+        },
+        "46": {
+            "date": "2024-02-13",
+            "français": "Thé",
+            "japonais": "お茶",
+            "hiragana": "おちゃ",
+            "transcription": "ocha",
+            "arabe": "شاي"
+        },
+        "47": {
+            "date": "2024-02-14",
+            "français": "Glaçon",
+            "japonais": "氷",
+            "hiragana": "こおり",
+            "transcription": "koori",
+            "arabe": "مكعب ثلج"
+        },
+        "48": {
+            "date": "2024-02-15",
+            "français": "Poulet",
+            "japonais": "鶏肉",
+            "hiragana": "とりにく",
+            "transcription": "toriniku",
+            "arabe": "دجاج"
+        },
+        "49": {
+            "date": "2024-02-16",
+            "français": "Riz",
+            "japonais": "ご飯",
+            "hiragana": "ごはん",
+            "transcription": "gohan",
+            "arabe": "أرز"
+        },
+        "50": {
+            "date": "2024-02-17",
+            "français": "Fruit",
+            "japonais": "果物",
+            "hiragana": "くだもの",
+            "transcription": "kudamono",
+            "arabe": "فاكهة"
+        },
+        "51": {
+            "date": "2024-02-18",
+            "français": "Fraise",
+            "japonais": "苺",
+            "hiragana": "いちご",
+            "transcription": "ichigo",
+            "arabe": "فراولة"
+        },
+        "52": {
+            "date": "2024-02-19",
+            "français": "Orange",
+            "japonais": "オレンジ",
+            "hiragana": "おれんじ",
+            "transcription": "orenji",
+            "arabe": "برتقال"
+        },
+        "53": {
+            "date": "2024-02-20",
+            "français": "Banane",
+            "japonais": "バナナ",
+            "hiragana": "ばなな",
+            "transcription": "banana",
+            "arabe": "موز"
+        },
+        "54": {
+            "date": "2024-02-21",
+            "français": "Citron",
+            "japonais": "レモン",
+            "hiragana": "れもん",
+            "transcription": "remon",
+            "arabe": "ليمون"
+        },
+        "55": {
+            "date": "2024-02-22",
+            "français": "Kiwi",
+            "japonais": "キウイ",
+            "hiragana": "きうい",
+            "transcription": "kiui",
+            "arabe": "كيوي"
+        },
+        "56": {
+            "date": "2024-02-23",
+            "français": "Cerise",
+            "japonais": "さくらんぼ",
+            "hiragana": "さくらんぼ",
+            "transcription": "sakuranbo",
+            "arabe": "كرز"
+        },
+        "57": {
+            "date": "2024-02-24",
+            "français": "Poivron",
+            "japonais": "ピーマン",
+            "hiragana": "ぴーまん",
+            "transcription": "pīman",
+            "arabe": "فلفل"
+        },
+        "58": {
+            "date": "2024-02-25",
+            "français": "Tomate",
+            "japonais": "トマト",
+            "hiragana": "とまと",
+            "transcription": "tomato",
+            "arabe": "طماطم"
+        },
+        "59": {
+            "date": "2024-02-26",
+            "français": "Courgette",
+            "japonais": "ズッキーニ",
+            "transcription": "Zukkīni",
+            "arabe": "قرعة"
+        },
+        "60": {
+            "date": "2024-02-27",
+            "français": "Laitue",
+            "japonais": "レタス",
+            "hiragana": "れたす",
+            "transcription": "rtasu",
+            "arabe": "خس"
+        },
+        "61": {
+            "date": "2024-02-28",
+            "français": "Artichaut",
+            "japonais": "アーティチョーク",
+            "hiragana": "あーてぃちょーく",
+            "transcription": "ātichōku",
+            "arabe": "قرنون"
+        },
+        "62": {
+            "date": "2024-02-29",
+            "français": "Carotte",
+            "japonais": "人参",
+            "hiragana": "にんじん",
+            "transcription": "ninjin",
+            "arabe": "جزر"
+        },
+        "63": {
+            "date": "2024-03-01",
+            "français": "Croissant",
+            "japonais": "クロワッサン",
+            "hiragana": "くろわっさん",
+            "transcription": "kurowassan",
+            "arabe": "كرواسون"
+        }
+    },
+    "korean": {
+        "1": {
+            "date": "2023-12-26",
+            "français": "Neige",
+            "coreen": "눈",
+            "transcription": "Nun",
+            "arabe": "ثلج"
+        },
+        "2": {
+            "date": "2023-12-27",
+            "français": "Beurre",
+            "coreen": "버터",
+            "transcription": "Beoteo",
+            "arabe": "زبدة"
+        },
+        "3": {
+            "date": "2023-12-28",
+            "français": "Appareil photo",
+            "coreen": "사진기",
+            "transcription": "Sajingi",
+            "arabe": "كاميرا"
+        },
+        "4": {
+            "date": "2023-12-29",
+            "français": "Fromage",
+            "coreen": "치즈",
+            "transcription": "Chijeu",
+            "arabe": "جبن"
+        },
+        "5": {
+            "date": "2023-12-30",
+            "français": "Taxi",
+            "coreen": "택시",
+            "transcription": "Taeksi",
+            "arabe": "تاكسي"
+        },
+        "6": {
+            "date": "2013-12-31",
+            "français": "Dîner",
+            "coreen": "저녁 식사",
+            "transcription": "Jeonyeok Siksa",
+            "arabe": "عشاء"
+        },
+        "7": {
+            "date": "2024-01-01",
+            "français": "Bonne année",
+            "coreen": "새해 복 많이 받으세요",
+            "transcription": "Saehae Bok Mani Badeuseyo",
+            "arabe": "سنة جديدة سعيدة"
+        },
+        "8": {
+            "date": "2024-01-06",
+            "français": "Chocolat",
+            "coreen": "초콜릿",
+            "transcription": "Chokollit",
+            "arabe": "شوكولاتة"
+        },
+        "9": {
+            "date": "2024-01-07",
+            "français": "Monstre",
+            "coreen": "괴물",
+            "transcription": "Goemul",
+            "arabe": "وحش"
+        },
+        "10": {
+            "date": "2024-01-08",
+            "français": "Internet",
+            "coreen": "인터넷",
+            "transcription": "Inteoneot",
+            "arabe": "الإنترنت"
+        },
+        "11": {
+            "date": "2024-01-09",
+            "français": "Jeu",
+            "coreen": "게임",
+            "transcription": "Geim",
+            "arabe": "لعبة"
+        },
+        "12": {
+            "date": "2024-01-10",
+            "français": "Pain",
+            "coreen": "빵",
+            "transcription": "Ppang",
+            "arabe": "خبز"
+        },
+        "13": {
+            "date": "2024-01-11",
+            "français": "Moto",
+            "coreen": "오토바이",
+            "transcription": "Otobai",
+            "arabe": "دراجة نارية"
+        },
+        "14": {
+            "date": "2024-01-12",
+            "français": "Imprimante",
+            "coreen": "프린터",
+            "transcription": "Peurinteo",
+            "arabe": "طابعة"
+        },
+        "15": {
+            "date": "2024-01-13",
+            "français": "Bus",
+            "coreen": "버스",
+            "transcription": "Beoseu",
+            "arabe": "حافلة"
+        },
+        "16": {
+            "date": "2024-01-14",
+            "français": "Camera",
+            "coreen": "카메라",
+            "transcription": "Kamera",
+            "arabe": "كاميرا"
+        },
+        "17": {
+            "date": "2024-01-15",
+            "français": "Football",
+            "coreen": "축구",
+            "transcription": "Chukgu",
+            "arabe": "كرة القدم"
+        },
+        "18": {
+            "date": "2024-01-16",
+            "français": "Radio",
+            "coreen": "라디오",
+            "transcription": "Radio",
+            "arabe": "راديو"
+        },
+        "19": {
+            "date": "2024-01-17",
+            "français": "Toilettes",
+            "coreen": "화장실",
+            "transcription": "Hwajangsil",
+            "arabe": "مرحاض"
+        },
+        "20": {
+            "date": "2024-01-18",
+            "français": "Lumière",
+            "coreen": "빛",
+            "transcription": "Bit",
+            "arabe": "ضوء"
+        },
+  
+        "21": {
+            "date": "2024-01-19",
+            "français": "Pomme de terre",
+            "coreen": "감자",
+            "transcription": "Gamja",
+            "arabe": "بطاطا"
+        },
+        "22": {
+            "date": "2024-01-20",
+            "français": "Gazon",
+            "coreen": "잔디",
+            "transcription": "Jandi",
+            "arabe": "عشب"
+        },
+        "23": {
+            "date": "2024-01-21",
+            "français": "Café",
+            "coreen": "커피",
+            "transcription": "Keopi",
+            "arabe": "قهوة"
+        },
+        "24": {
+            "date": "2024-01-22",
+            "français": "Chemise",
+            "coreen": "셔츠",
+            "transcription": "Syeocheu",
+            "arabe": "قميص"
+        },
+        "25": {
+            "date": "2024-01-23",
+            "français": "Ballon",
+            "coreen": "풍선",
+            "transcription": "Pungseon",
+            "arabe": "بالون"
+        },
+        "26": {
+            "date": "2024-01-24",
+            "français": "Télévision",
+            "coreen": "텔레비전",
+            "transcription": "Tellebijeon",
+            "arabe": "تلفزيون"
+        },
+        "27": {
+            "date": "2024-01-25",
+            "français": "Télécommande",
+            "coreen": "리모컨",
+            "transcription": "Rimokeon",
+            "arabe": "جهاز التحكم عن بعد"
+        },
+        "28": {
+            "date": "2024-01-26",
+            "français": "Voiture",
+            "coreen": "자동차",
+            "transcription": "jadongcha",
+            "arabe": "سيارة"
+        },
+        "29": {
+            "date": "2024-01-27",
+            "français": "Armée",
+            "coreen": "군대",
+            "transcription": "Gundae",
+            "arabe": "جيش"
+        },
+        "30": {
+            "date": "2024-01-28",
+            "français": "Shampoing",
+            "coreen": "샴푸",
+            "transcription": "Syampoo",
+            "arabe": "شامبو"
+        },
+        "31": {
+            "date": "2024-01-29",
+            "français": "Message",
+            "coreen": "메시지",
+            "transcription": "Mesiji",
+            "arabe": "رسالة"
+        },
+        "32": {
+            "date": "2024-01-30",
+            "français": "Pâtes",
+            "coreen": "파스타",
+            "transcription": "Paseuta",
+            "arabe": "مكرونة"
+        },
+        "33": {
+            "date": "2024-01-31",
+            "français": "Gâteau",
+            "coreen": "케이크",
+            "transcription": "Keikeu",
+            "arabe": "كعكة"
+        },
+        "34": {
+            "date": "2024-02-01",
+            "français": "Pluie",
+            "japonais": "비",
+            "transcription": "bi",
+            "arabe": "مطر"
+        },
+        "35": {
+            "date": "2024-02-02",
+            "français": "Gaz",
+            "coreen": "가스",
+            "transcription": "Gaseu",
+            "arabe": "غاز"
+        },
+        "36": {
+            "date": "2024-02-03",
+            "français": "Appartement",
+            "coreen": "아파트",
+            "transcription": "Apaiteu",
+            "arabe": "شقة"
+        },
+        "37": {
+            "date": "2024-02-04",
+            "français": "Espace",
+            "coreen": "우주",
+            "transcription": "Uju",
+            "arabe": "الفضاء"
+        },
+        "38": {
+            "date": "2024-02-05",
+            "français": "Micro",
+            "coreen": "마이크",
+            "transcription": "Maikeu",
+            "arabe": "ميكروفون"
+        },
+        "39": {
+            "date": "2024-02-06",
+            "français": "Piano",
+            "coreen": "피아노",
+            "transcription": "Piano",
+            "arabe": "بيانو"
+        },
+        "40": {
+            "date": "2024-02-07",
+            "français": "Guitare",
+            "coreen": "기타",
+            "transcription": "Gita",
+            "arabe": "غيتار"
+        },
+        "41": {
+            "date": "2024-02-08",
+            "français": "Opera",
+            "coreen": "오페라",
+            "transcription": "Opera",
+            "arabe": "أوبرا"
+        },
+        "42": {
+            "date": "2024-02-09",
+            "français": "Avion",
+            "coreen": "비행기",
+            "transcription": "Bihaenggi",
+            "arabe": "طائرة"
+        },
+        "43": {
+            "date": "2024-02-10",
+            "français": "Hélicoptère",
+            "coreen": "헬리콥터",
+            "transcription": "Hellikopteo",
+            "arabe": "مروحية"
+        },
+        "44": {
+            "date": "2024-02-11",
+            "français": "Carte",
+            "coreen": "카드",
+            "transcription": "Kadeu",
+            "arabe": "ورقة"
+        },
+        "45": {
+            "date": "2024-02-12",
+            "français": "Menu",
+            "coreen": "메뉴",
+            "transcription": "Menyu",
+            "arabe": "قائمة الطعام"
+        },
+        "46": {
+            "date": "2024-02-13",
+            "français": "Thé",
+            "coreen": "차",
+            "transcription": "Cha",
+            "arabe": "شاي"
+        },
+        "47": {
+            "date": "2024-02-14",
+            "français": "Glaçon",
+            "coreen": "얼음",
+            "transcription": "Eoreum",
+            "arabe": "مكعب ثلج"
+        },
+        "48": {
+            "date": "2024-02-15",
+            "français": "Poulet",
+            "coreen": "닭고기",
+            "transcription": "Dakgogi",
+            "arabe": "دجاج"
+        },
+        "49": {
+            "date": "2024-02-16",
+            "français": "Riz",
+            "coreen": "밥",
+            "transcription": "Bap",
+            "arabe": "أرز"
+        },
+        "50": {
+            "date": "2024-02-17",
+            "français": "Fruit",
+            "coreen": "과일",
+            "transcription": "Gwa-il",
+            "arabe": "فاكهة"
+        },
+        "51": {
+            "date": "2024-02-18",
+            "français": "Fraise",
+            "coreen": "딸기",
+            "transcription": "Ttalgi",
+            "arabe": "فراولة"
+        },
+        "52": {
+            "date": "2024-02-19",
+            "français": "Orange",
+            "coreen": "오렌지",
+            "transcription": "Orenji",
+            "arabe": "برتقال"
+        },
+        "53": {
+            "date": "2024-02-20",
+            "français": "Banane",
+            "coreen": "바나나",
+            "transcription": "Banana",
+            "arabe": "موز"
+        },
+        "54": {
+            "date": "2024-02-21",
+            "français": "Citron",
+            "coreen": "레몬",
+            "transcription": "Lemon",
+            "arabe": "ليمون"
+        },
+        "55": {
+            "date": "2024-02-22",
+            "français": "Kiwi",
+            "coreen": "키위",
+            "transcription": "Kiwi",
+            "arabe": "كيوي"
+        },
+        "56": {
+            "date": "2024-02-23",
+            "français": "Cerise",
+            "coreen": "체리",
+            "transcription": "Cheri",
+            "arabe": "كرز"
+        },
+        "57": {
+            "date": "2024-02-24",
+            "français": "Poivron",
+            "coreen": "파프리카",
+            "transcription": "Papeurika",
+            "arabe": "فلفل"
+        },
+        "58": {
+            "date": "2024-02-25",
+            "français": "Tomate",
+            "coreen": "토마토",
+            "transcription": "Tomato",
+            "arabe": "طماطم"
+        },
+        "59": {
+            "date": "2024-02-26",
+            "français": "Courgette",
+            "coreen": "호박",
+            "transcription": "Hobak",
+            "arabe": "قرعة"
+        },
+        "60": {
+            "date": "2024-02-27",
+            "français": "Laitue",
+            "coreen": "상추",
+            "transcription": "Sangchu",
+            "arabe": "خس"
+        },
+        "61": {
+            "date": "2024-02-28",
+            "français": "Artichaut",
+            "coreen": "아티초크",
+            "transcription": "Atichokeu",
+            "arabe": "قرنون"
+        },
+        "62": {
+            "date": "2024-02-29",
+            "français": "Carotte",
+            "coreen": "당근",
+            "transcription": "Danggeun",
+            "arabe": "جزر"
+        },
+        "63": {
+            "date": "2024-03-01",
+            "français": "Croissant",
+            "coreen": "크루아상",
+            "transcription": "Keuruasang",
+            "arabe": "كرواسون"
+        }
+    }
+}

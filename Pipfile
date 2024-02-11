@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pillow = "*"
+tinydb = "*"
+rembg = "*"
+googletrans = "*"
+pydub = "*"
+google-trans-new = "*"
+deep-translator = "*"
+gtts = "*"
+moviepy = "*"
+unidecode = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

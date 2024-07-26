@@ -42,7 +42,7 @@ Flashcards Maker is an application that generates flashcards of words in Japanes
 3. Run the main script to generate the flashcards, audio files, and videos:
 
     ```bash
-    python flashcards_maker.py
+    python __main__.py
     ```
 
 ## Project Structure

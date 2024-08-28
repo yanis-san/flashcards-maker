@@ -14,6 +14,8 @@ deep-translator = "*"
 gtts = "*"
 moviepy = "*"
 unidecode = "*"
+arabic-reshaper = "*"
+python-bidi = "*"
 
 [dev-packages]
 

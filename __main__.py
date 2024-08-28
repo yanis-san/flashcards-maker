@@ -6,8 +6,9 @@ import os
 import unidecode
 from video_maker import audio_maker, video_maker
 
+
 SILENCE = 'sound_effect/silence.mp3'
-PATH = 'C:/Users/yanis/Desktop/git/flashcards-maker/flashcards/'
+PATH = 'C:/Users/yanis/flashcards-maker/flashcards'
 
 
 # Liste des fichiers dans le dossier
@@ -131,15 +132,22 @@ def make_asian_word(word, font):
     draw.text((x_translated, y_translated+50),
               word, font=font, fill=(0, 0, 0))
 
+    
+import arabic_reshaper
+from bidi.algorithm import get_display
 
 def make_arabic_word(word):
+    # Reshape and reorder the Arabic text
+    reshaped_word = arabic_reshaper.reshape(word)
+    bidi_word = get_display(reshaped_word)
+    
     xc_image, yc_image = image_center(image)
-    half_width, half_height = text_dimension(word, half=True, font=ARABIC_FONT)
+    half_width, half_height = text_dimension(bidi_word, half=True, font=ARABIC_FONT)
     x_translated, y_translated = translation(
         xc_image, yc_image, half_width, half_height)
 
     draw.text((x_translated+255, y_translated-196),
-              word, font=ARABIC_FONT, fill=(0, 0, 0))
+              bidi_word, font=ARABIC_FONT, fill=(0, 0, 0))
 
 
 japanese_table = db.table('japanese')
@@ -171,12 +179,12 @@ for template in TEMPLATES:
             make_transcription(transcription_value)
 
             image.save(
-                f'{PATH}{folder_name}/2-{unidecode.unidecode(french_value.lower())}_chinese.png')
+                f'{PATH}/{folder_name}/2-{unidecode.unidecode(french_value.lower())}_chinese.png')
             print(f'{french_value.lower()} Crée chinois')
 
-            audio_maker(chinese_value, "zh", f'{PATH}{folder_name}')
-            video_maker(f'{PATH}{folder_name}/2-{unidecode.unidecode(french_value.lower())}_chinese.png',
-                        f'{PATH}{folder_name}/zh.mp3', f'{PATH}{folder_name}/video_ch.mp4')
+            audio_maker(chinese_value, "zh", f'{PATH}/{folder_name}')
+            video_maker(f'{PATH}/{folder_name}/2-{unidecode.unidecode(french_value.lower())}_chinese.png',
+                        f'{PATH}/{folder_name}/zh.mp3', f'{PATH}/{folder_name}/video_ch.mp4')
     elif template == 'templates/japanese_template.png':
         for folder_name in folder_list:
             results = japanese_table.get(where('date') == folder_name)
@@ -198,11 +206,11 @@ for template in TEMPLATES:
             make_transcription(transcription_value)
 
             image.save(
-                f'{PATH}{folder_name}/1-{unidecode.unidecode(french_value.lower())}_japanese.png')
+                f'{PATH}/{folder_name}/1-{unidecode.unidecode(french_value.lower())}_japanese.png')
             print(f'{french_value.lower()} Crée japonais')
-            audio_maker(japanese_value, "ja", f'{PATH}{folder_name}')
-            video_maker(f'{PATH}{folder_name}/1-{unidecode.unidecode(french_value.lower())}_japanese.png',
-                        f'{PATH}{folder_name}/ja.mp3', f'{PATH}{folder_name}/video_jp.mp4')
+            audio_maker(japanese_value, "ja", f'{PATH}/{folder_name}')
+            video_maker(f'{PATH}/{folder_name}/1-{unidecode.unidecode(french_value.lower())}_japanese.png',
+                        f'{PATH}/{folder_name}/ja.mp3', f'{PATH}/{folder_name}/video_jp.mp4')
 
     elif template == 'templates/korean_template.png':
         for folder_name in folder_list:
@@ -223,11 +231,11 @@ for template in TEMPLATES:
             make_asian_word(korean_value, KOREAN_FONT)
             make_transcription(transcription_value)
             image.save(
-                f'{PATH}{folder_name}/3-{unidecode.unidecode(french_value.lower())}_korean.png')
+                f'{PATH}/{folder_name}/3-{unidecode.unidecode(french_value.lower())}_korean.png')
 
-            audio_maker(korean_value, "ko", f'{PATH}{folder_name}')
-            video_maker(f'{PATH}{folder_name}/3-{unidecode.unidecode(french_value.lower())}_korean.png',
-                        f'{PATH}{folder_name}/ko.mp3', f'{PATH}{folder_name}/video_cor.mp4')
+            audio_maker(korean_value, "ko", f'{PATH}/{folder_name}')
+            video_maker(f'{PATH}/{folder_name}/3-{unidecode.unidecode(french_value.lower())}_korean.png',
+                        f'{PATH}/{folder_name}/ko.mp3', f'{PATH}/{folder_name}/video_cor.mp4')
 
             print(f'{french_value.lower()} Crée coréen')
 

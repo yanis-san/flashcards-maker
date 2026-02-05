@@ -624,20 +624,21 @@
         },
         "protobuf": {
             "hashes": [
-                "sha256:10319748764b917a9a7cddef1582a0a9cd0f8f6d04e545c6236f7ccaf9b624d9",
-                "sha256:1fe7735902e84ce35c4152cf07981c176713935a8efad78cea547aae5f4f75cb",
-                "sha256:25169c7624d5a9e669fa6faff5a6e818f854346d51ee347b2284676beb9e85dd",
-                "sha256:25ba1f0633f73c3939f3b84e1636f3eb3bab7196952ebb83906d56945edd6aa8",
-                "sha256:565b051249a2f8270af04206dd4f3b73a02343e7d9e072aed57441b369b3467d",
-                "sha256:b97259641e8d38738eef34a173e51d2d53a453baab01a32477a64752d9ce59a3",
-                "sha256:d5a0e229061600842e57af4ff6a8522ede5280bcfa4fe7f3a1c20589377859a6",
-                "sha256:e673f173cbac4e59c7817ed358e471e4c77aa9166986edf3e731156379a556c7",
-                "sha256:e85fed07013e5a0121efbaf1b14355fdc66f6e545f12fc5985b2882370410006",
-                "sha256:eaa1016e353d8fc5bf08c8087e96eed15f5297aa52bb7ee1f533278bb3f3aad7",
-                "sha256:f0c24374aaaf103f33662e4de7666a4a4280abebdb8a9f3f0f9b1d71b61174ec"
+                "sha256:36ade6ff88212e91aef4e687a971a11d7d24d6948a66751abc1b3238648f5d05",
+                "sha256:62e8a3114992c7c647bce37dcc93647575fc52d50e48de30c6fcb28a6a291eb1",
+                "sha256:6b9edb641441b2da9fa8f428760fc136a49cf97a52076010cf22a2ff73438a86",
+                "sha256:76e07e6567f8baf827137e8d5b8204b6c7b6488bbbff1bf0a72b383f77999c18",
+                "sha256:7e6ad413275be172f67fdee0f43484b6de5a904cc1c3ea9804cb6fe2ff366eda",
+                "sha256:831e2da16b6cc9d8f1654c041dd594eda43391affd3c03a91bea7f7f6da106d6",
+                "sha256:a8866b2cff111f0f863c1b3b9e7572dc7eaea23a7fae27f6fc613304046483e6",
+                "sha256:b5a169e664b4057183a34bdc424540e86eea47560f3c123a0d64de4e137f9269",
+                "sha256:cb4c86de9cd8a7f3a256b9744220d87b847371c6b2f10bde87768918ef33ba49",
+                "sha256:da9ee6a5424b6b30fd5e45c5ea663aef540ca95f9ad99d1e887e819cdf9b8723",
+                "sha256:e3387f44798ac1106af0233c04fb8abf543772ff241169946f698b3a9a3d3ab9"
             ],
+            "index": "pypi",
             "markers": "python_version >= '3.8'",
-            "version": "==5.27.4"
+            "version": "==5.29.6"
         },
         "pydub": {
             "hashes": [

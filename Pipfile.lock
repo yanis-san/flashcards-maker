@@ -995,11 +995,12 @@
         },
         "setuptools": {
             "hashes": [
-                "sha256:0274581a0037b638b9fc1c6883cc71c0210865aaa76073f7882376b641b84e8f",
-                "sha256:a85e96b8be2b906f3e3e789adec6a9323abf79758ecfa3065bd740d81158b11e"
+                "sha256:23657205b63d4d31395ab917815247f694aafad28cd21316bf5fd45a51048ea0",
+                "sha256:5231689c6ac8156cd155cfb98c3fd6fb252c3e7e9bd3d78b64d3c55f132624c9"
             ],
-            "markers": "python_version >= '3.8'",
-            "version": "==74.0.0"
+            "index": "pypi",
+            "markers": "python_version >= '3.10'",
+            "version": "==84.1.0"
         },
         "sniffio": {
             "hashes": [
